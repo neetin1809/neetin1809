@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Vaswani</h1>
-<h3 align="center">A passionate developer from India| No Technology Bar</h3>
+<h3 align="center">A passionate developer from India| No Technology Bar| hear to make human life easier by use of technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neetin1809&label=Profile%20views&color=0e75b6&style=flat" alt="neetin1809" /> </p>
 
