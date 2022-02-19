@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/neetinvaswani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neetinvaswani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/5236428/neetin-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/5236428/neetin-v" height="30" width="40" /></a>
-<a href="https://medium.com/@neetin vaswani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@neetin vaswani" height="30" width="40" /></a>
+<a href="https://medium.com/@neetin-vaswani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@neetin vaswani" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/neetin1809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neetin1809" height="30" width="40" /></a>
 </p>
 
