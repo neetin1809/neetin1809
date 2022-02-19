@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @neetin1809
-- 👀 I’m interested in SOftware Designing. Enterprises App and ,micro-services
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Nitin Vaswanu
+- 👀 I’m interested in Software Designing. Enterprises App and micro-services with CLoud Technologoes.
+- 🌱 I’m currently learning Cloud technologies 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
