@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nitin Vaswanu
+- 👋 Hi, I’m Nitin Vaswani
 - 👀 I’m interested in Software Designing. Enterprises App and micro-services with CLoud Technologoes.
 - 🌱 I’m currently learning Cloud technologies 
 - 💞️ I’m looking to collaborate on ...
